@@ -60,10 +60,13 @@ You can find the servo control code in the [servo.ino](servo.ino) file.
 ## Tips:
 
 - When attaching the brushes to the parts, use a heat-gun to make the brush fit:
+
 <p align="center">
   <img width="473" alt="image" src="https://github.com/user-attachments/assets/9f7ede4b-19bb-4c75-ab4e-1397472121a9">
 </p>
+
 - Add screws to the brushes to make sure theyre attahed properly:
+
 <p align="center">
   <img width="425" alt="image" src="https://github.com/user-attachments/assets/746da52f-e0df-48c6-93d6-f380f6488734">
 </p>
